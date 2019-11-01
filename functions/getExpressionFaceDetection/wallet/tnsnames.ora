@@ -1,0 +1,6 @@
+adwfaced_high = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=akwo6zj65g1yuq0_adwfaced_high.adwc.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+adwfaced_low = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=akwo6zj65g1yuq0_adwfaced_low.adwc.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+
+adwfaced_medium = (description= (connect_timeout=1200)(retry_count=20)(retry_delay=3)(transport_connect_timeout=3)(address=(protocol=tcps)(port=1522)(host=adb.us-phoenix-1.oraclecloud.com))(connect_data=(service_name=akwo6zj65g1yuq0_adwfaced_medium.adwc.oraclecloud.com))(security=(ssl_server_cert_dn="CN=adwc.uscom-east-1.oraclecloud.com,OU=Oracle BMCS US,O=Oracle Corporation,L=Redwood City,ST=California,C=US")))
+

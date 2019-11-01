@@ -33,3 +33,5 @@ video.addEventListener("play", () => {
     faceapi.draw.drawFaceExpressions(canvas, resizedDetections);
   }, 1000);
 });
+
+// H7EskEQ:{9sbN{JnE2#M
